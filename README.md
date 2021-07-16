@@ -100,8 +100,9 @@ friends-of-friends (David): `[7, 2, 8, 3, 9, 4]`.
 
 When you are ready to submit:
 
-1. Delete the `node_modules` directory
-2. Zip up your folder
-3. Upload it
+1. delete the `node_modules` directory
+2. rename your folder to begin with your `firstName_lastName`
+3. zip up your folder
+4. upload it
 
 [https://github.com/appacademy/assessment-for-week-06-v2-version-a-graphs]: https://github.com/appacademy/assessment-for-week-06-v2-version-a-graphs

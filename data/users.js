@@ -117,3 +117,4 @@ module.exports =
   115: {'name': 'Trina', 'friends': [66, 97, 9, 104, 77], 'closeFriends': []},
   116: {'name': 'Roseline', 'friends': [5, 84, 86, 45, 101, 78], 'closeFriends': [5, 45, 101, 78]}
 }
+
